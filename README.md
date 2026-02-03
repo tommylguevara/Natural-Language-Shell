@@ -81,5 +81,3 @@ Desarrollado como proyecto de integración de LLMs y automatización de sistemas
 
 
 ---
-
-**¿Deseas que te ayude a crear el repositorio en GitHub y subirlo de una vez?** Solo tienes que decirme y te guío con los comandos finales.
